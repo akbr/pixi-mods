@@ -1,0 +1,13 @@
+{
+  "name": "pixiMods",
+  "version": "0.0.1",
+  "author": "Aaron Rieke",
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
